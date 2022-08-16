@@ -1,0 +1,43 @@
+baseurl: http://localhost:1313
+languageCode: en-us
+paginate: 5
+title: Example Site
+
+languages:
+  en:
+    languageName: English
+    title: jinsoo-youn
+    weight: 1
+DefaultContentLanguage: en
+module:
+  # uncomment line below for temporary local development of module
+  # replacements: "github.com/CaiJimmy/hugo-theme-stack/v3 -> ../../hugo-theme-stack"
+  imports:
+    - path: github.com/CaiJimmy/hugo-theme-stack/v3
+      disable: false
+
+params:
+  sidebar:
+    emoji: 🍥
+    subtitle: jinwoo's Daddy
+    avatar:
+      enabled: true
+      local: false
+      src: main.jpg
+
+
+menu:
+  main: []
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/jinsoo-youn
+      params:
+        icon: brand-github
+
+    - identifier: home
+      name: Home
+      url: https://woody.blogzip.net
+      params:
+        icon: home
