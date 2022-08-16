@@ -1,4 +1,4 @@
-baseurl: http://localhost:1313
+baseurl: https://portfolio.blogzip.net
 languageCode: en-us
 paginate: 5
 title: Example Site
