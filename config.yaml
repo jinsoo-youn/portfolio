@@ -22,12 +22,29 @@ params:
     subtitle: jinwoo's Daddy
     avatar:
       enabled: true
-      local: false
+      local: true
       src: main.jpg
+
+    colorScheme:
+      # Display toggle
+      toggle: true
+      default: auto
+
+#  mainSections:
+#    - post
+#  featuredImageField: image
+#  rssFullContent: true
+#  favicon:
+#
+#  footer:
+#    since: 2020
+#    customText:
 
 
 menu:
   main: []
+#  main:
+#    name: title
 
   social:
     - identifier: github
@@ -41,3 +58,21 @@ menu:
       url: https://woody.blogzip.net
       params:
         icon: home
+
+markup:
+  goldmark:
+    renderer:
+      ## Set to true if you have HTML content inside Markdown
+      unsafe: false
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4

@@ -26,11 +26,11 @@ Helm, Cert-manager)와 keycloak, oauth2-proxy, dex** 등의 오픈소스 프로�
 갖고 있습니다. 
 
 
-* kubernetes 인증과 인가를 정확히 이해하고 있으며, 외부 인증서버(keycloak, google 등)를 통한 인증 환경을 구축할 수 있는 능력을 보유하고 있습니다. 
+* **kubernetes 인증과 인가**를 정확히 이해하고 있으며, 외부 인증서버(keycloak, google 등)를 통한 인증 환경을 구축할 수 있는 능력을 보유하고 있습니다. 
 현재 kubernetes 클러스터의 보안 강화를 위해 OPA를 연구 중에 있습니다.
 
 
-* API Gateway 개발 경험을 토대로 API 요청과 보안, tracing에 대한 개념을 잘 이해하고 있으며, 현재 backend 서버 간 service mesh (isio, linkderd)를 연구하여 
+* **API Gateway** 개발 경험을 토대로 API 요청과 보안, tracing에 대한 개념을 잘 이해하고 있으며, 현재 backend 서버 간 **service mesh** (isio, linkderd)를 연구하여 
 제품에 도입하고 있습니다. 
 
 
