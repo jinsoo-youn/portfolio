@@ -21,7 +21,7 @@ menu:
 **API Gateway 개발, 클라우드 기반 Oauth2 인증 개발, hypercloud 웹서버 백엔드 개발 및 CI&CD 파이프라인 구축**을 주된 역할을 맡고 있습니다.
 
 * Golang기반 hypercloud backend 웹서버 개발과 kubernetes-operator 개발 경험을 보유하고 있으며, kubespray(ansible-playbook)으로 HA kubernetes cluster를
-구축할 수 있습니다. Kubernetes를 명확히 이해하고 있으며, 클러스터 구축, trouble shooting 능력을 보유하고있습니다.. **CNCF 오픈소스 프로젝트(ArgoCD 
+구축할 수 있습니다. Kubernetes를 명확히 이해하고 있으며, 클러스터 구축, trouble shooting 능력을 보유하고있습니다. **CNCF 오픈소스 프로젝트(ArgoCD 
 Helm, Cert-manager)와 keycloak, oauth2-proxy, dex** 등의 오픈소스 프로젝트를 사용해 문제 해결한 경험을 보유하고 있고, 필요 시 소스코드를 수정하여 새로운 기능을 추가한 경험을 
 갖고 있습니다. 
 
