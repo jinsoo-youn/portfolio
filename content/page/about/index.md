@@ -204,7 +204,9 @@ Helm, Cert-manager)와 keycloak, oauth2-proxy, dex** 등의 오픈소스 프로�
 
 # Certification.
 
-Certificate Kubernates Administrator, CKA 자격증 (2021.03.03 취득)
+[Certificate Kubernates Administrator, CKA 자격증 (2021.03.03 취득)](https://www.credly.com/badges/ac04576b-1132-47ad-bfd1-edf72c3ee0d2/public_url)
+
+[Certified Kubernetes Security Specialist, CKS 자격증 (2024.10.23 취득)](https://www.credly.com/badges/ce1451ca-7cbe-4eef-b251-0e51fe9c317a/public_url)
 
 # Language.
 
